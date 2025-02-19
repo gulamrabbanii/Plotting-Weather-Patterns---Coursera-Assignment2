@@ -24,4 +24,4 @@ For this assignment, you must:
 
 I've written some steps I think would be good to go through, but there are other ways to solve this assignment, so feel free to explore the pandas library! What I really want to see is an image that looks like this sketch I drew at my desk:
 
-![Sketch](assets/chris_sketch.png)
+![Sketch](chris_sketch.png)
